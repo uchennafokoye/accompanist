@@ -55,7 +55,7 @@ A library that provides [Android runtime permissions][runtimepermissions] suppor
 ### ⏳ [Placeholder](./placeholder/)
 A library that provides easy-to-use modifiers for displaying a placeholder UI while content is loading.
 
-### 🌊 [Flow Layouts](./flowlayout/) (Soon to be deprecated - Upstreamed in Compose 1.4)
+### 🌊 [Flow Layouts](./flowlayout/) (Deprecated)
 A library that adds Flexbox-like layout components to Jetpack Compose.
 
 ### 🧭✨[Navigation-Animation](./navigation-animation/)
